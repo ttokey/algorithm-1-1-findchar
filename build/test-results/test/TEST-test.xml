@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-10T17:04:30" hostname="DESKTOP-BF3CT87" time="0.071">
+  <properties/>
+  <testcase name="[1] Computercooler, c, 2" classname="test" time="0.066"/>
+  <testcase name="[2] FreeFFF, F, 4" classname="test" time="0.001"/>
+  <testcase name="[3] abc, d, 0" classname="test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
